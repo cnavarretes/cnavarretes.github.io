@@ -12,7 +12,7 @@ title                    : "Camila Navarrete"
 title_separator          : "-"
 name                     : &name "Camila Navarrete"
 description              : &description "Astrophysicist"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cnavarretes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cnavarretes/cnavarretes.github.io"
 
