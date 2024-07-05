@@ -11,36 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Astronomy, Pontificia Universidad Católica de Chile (2007 - 2011)
+* M.S. in Astrophysics, Pontificia Universidad Católica de Chile (2011 - 2014)
+    <i> Maternity leave (August 2012 -- February 2013) </i>
+* Ph.D in Astrophysics, Pontificia Universidad Católica de Chile (2014 - 2018)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* CNES Fellow (Oct 2023 -- )
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ESO Chile Fellow (May 2019 - April 2023)
+  * 50/50 Research/duties fellowship
+  * Observation duties at Paranal Observatory
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
