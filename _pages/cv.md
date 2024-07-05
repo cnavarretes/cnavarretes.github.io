@@ -11,19 +11,4 @@ redirect_from:
 
 <embed src="{{ site.baseurl }}/files/CV_LoP_CNavarrete_July24.pdf" width="650" height="800" type='application/pdf'>
 
-Education
-======
-* B.S. in Astronomy, Pontificia Universidad Católica de Chile (2007 - 2011)
-* M.S. in Astrophysics, Pontificia Universidad Católica de Chile (2011 - 2014)
-    <i> Maternity leave (August 2012 -- February 2013) </i>
-* Ph.D in Astrophysics, Pontificia Universidad Católica de Chile (2014 - 2018)
-
-Work experience
-======
-* CNES Fellow (Oct 2023 -- )
-
-* ESO Chile Fellow (May 2019 - April 2023)
-  * 50/50 Research/duties fellowship
-  * Observation duties at Paranal Observatory
-  
 Full publication list available <a href="{{ site.baseurl }}/files/List_of_publications_July24.pdf">here.</a>
