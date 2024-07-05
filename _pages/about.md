@@ -11,6 +11,5 @@ Welcome to my personal webpage! I'm Camila Navarrete, PhD in Astrophysics, and c
 
 ¡Bienvenid@ a mi página web personal! Soy Camila Navarrete, doctora en Astrofísica, y actualmente investigadora postdoctoral del [CNES](https://cnes.fr/en) en el [Observatorio de la Costa Azul](https://www.oca.eu/en/), en Niza, Francia. Esta página está en construcción.
 
-Intento de foto
-
-<img src='/images/sunset.jpeg'></a>"
+Sunset at Paranal Observatory. From left to right: Ana Escorza, Camila Navarrete, Ditte Slumstrup. Picture credits: Boris Häußler
+<img src='/images/sunset.jpeg'>
