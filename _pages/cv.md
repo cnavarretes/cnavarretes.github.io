@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="{{ site.baseurl }}/List_of_publications_July24.pdf" width="650" height="800" type='application/pdf'>
+
 Education
 ======
 * B.S. in Astronomy, Pontificia Universidad Católica de Chile (2007 - 2011)
