@@ -13,4 +13,4 @@ Welcome to my personal webpage! I'm Camila Navarrete, PhD in Astrophysics, and c
 
 Intento de foto
 
-<img src='/images/sunset.png'></a>"
+<img src='/images/sunset.jpeg'></a>"
