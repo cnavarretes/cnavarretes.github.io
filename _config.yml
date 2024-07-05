@@ -21,7 +21,7 @@ repository               : "cnavarretes/cnavarretes.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CamilaNavarrete.JPG"
+  avatar           : "CamilaNavarrete.jpg"
   name             : "Camila Navarrete"
   pronouns         : # example: "she/her"  
   bio              : "Centre National d'Études Spatiales (CNES) Fellow - Observatoire de la Côte d'Azur"
