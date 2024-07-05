@@ -24,4 +24,4 @@ Work experience
   * 50/50 Research/duties fellowship
   * Observation duties at Paranal Observatory
   
-Full CV available <a href="{{ site.baseurl }}/files/List_of_publications_July24.pdf">here.</a>
+Full publication list available <a href="{{ site.baseurl }}/files/List_of_publications_July24.pdf">here.</a>
