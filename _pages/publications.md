@@ -16,6 +16,12 @@ First and second Author Publications
 * [*The 3D kinematics of stellar substructures in the periphery of the Large Magellanic Cloud*](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4720N/abstract)
 <br>Navarrete, C., Aguado, D. S., Belokurov, V. et al. 2023, MNRAS, 523, 4720
 
+* [*Extra-tidal star candidates in globular clusters of the Sagittarius dwarf spheroidal galaxy*](https://ui.adsabs.harvard.edu/abs/2022A%26A...665A...8K/abstract)
+<br>Kundu, R., Navarrete, C., Sbordone, L. et al. 2022, A&A, 665, 8
+
+*[*The search for extratidal star candidates around Galactic globular clusters NGC 2808, NGC 6266, and NGC 6397 with Gaia DR2 astrometry*](https://ui.adsabs.harvard.edu/abs/2021A%26A...645A.116K/abstract)
+<br>Kundu, R., Navarrete, C., Fernández-Trincado, J. G. et al. 2021, A&A, 645, 116
+
 * [*Stellar streams around the Magellanic Clouds in 4D*](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4160N/abstract)
 <br>Navarrete, C., Belokurov, V., Catelan, M. et al. 2019, MNRAS, 483, 4160
 
