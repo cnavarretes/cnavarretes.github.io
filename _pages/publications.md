@@ -22,12 +22,10 @@ First and second Author Publications
 * [*The 3D kinematics of stellar substructures in the periphery of the Large Magellanic Cloud*](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4720N/abstract)
 <br>Navarrete, C., Aguado, D. S., Belokurov, V. et al. 2023, MNRAS, 523, 4720
 
-* [*Stellar streams around the Magellanic Clouds in 4D*]
-(https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4160N/abstract)
+* [*Stellar streams around the Magellanic Clouds in 4D*](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4160N/abstract)
 <br>Navarrete, C., Belokurov, V., Catelan, M. et al. 2019, MNRAS, 483, 4160
 
-* [*Stellar streams around the Magellanic Clouds in 4D*]
-(https://ui.adsabs.harvard.edu/abs/2019PhDT........72N/abstract)
+* [*Stellar streams around the Magellanic Clouds in 4D*](https://ui.adsabs.harvard.edu/abs/2019PhDT........72N/abstract)
 <br>Navarrete, C., PhD Thesis, Pontificia Universidad Católica de Chile, December 2018
 
 
