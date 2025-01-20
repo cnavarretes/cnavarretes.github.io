@@ -25,7 +25,23 @@ First and second Author Publications
 * [*Stellar streams around the Magellanic Clouds in 4D*](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4160N/abstract)
 <br>Navarrete, C., Belokurov, V., Catelan, M. et al. 2019, MNRAS, 483, 4160
 
-* [*Stellar streams around the Magellanic Clouds in 4D*](https://ui.adsabs.harvard.edu/abs/2019PhDT........72N/abstract)
+* [*Stellar substructures in the southern Galactic hemisphere*](https://ui.adsabs.harvard.edu/abs/2019PhDT........72N/abstract)
 <br>Navarrete, C., PhD Thesis, Pontificia Universidad Católica de Chile, December 2018
 
+* [*Near-IR period-luminosity relations for pulsating stars in ω Centauri (NGC 5139)*](https://ui.adsabs.harvard.edu/abs/2017A%26A...604A.120N/abstract)
+<br>Navarrete, C., Catelan, M., Contreras Ramos, R., et al. 2017, A&A 604, A120
 
+* [*The Discovery of Tidal Tails around the Globular Cluster NGC 7492 with Pan-STARRS1*](https://ui.adsabs.harvard.edu/abs/2017ApJ...841L..23N/abstract)
+<br>Navarrete, C., Belokurov, V. and Koposov, S. E., 2017, ApJ Letters, 841, L23
+
+* [*A fork in the Sagittarius trailing debris*](https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.1329N/abstract) 
+<br>Navarrete, C., Belokurov, V., Koposov, S. E. et al., 2017, MNRAS, 467, 1329
+
+* [*The Kapteyn Moving Group Is Not Tidal Debris From ω Centauri*](https://ui.adsabs.harvard.edu/abs/2015ApJ...808..103N/abstract) 
+<br>Navarrete, C., Chanamé, J., Ramírez, I. et al., 2015, ApJ, 808, 103
+
+* [*Updated census of RR Lyrae stars in the globular cluster ω Centauri (NGC 5139)*](https://ui.adsabs.harvard.edu/abs/2015A%26A...577A..99N/abstract)
+<br>Navarrete, C., Contreras Ramos, R., Catelan, M. et al., 2015, A&A, 577, 99
+
+* [*A misidentified RR Lyrae variable star in omega Centauri*](https://ui.adsabs.harvard.edu/abs/2013IBVS.6078....1N/abstract)
+<br>Navarrete, C., Catelan, M., Contreras Ramos, R. et al., 2013,  Information Bulletin on Variable Stars, No. 6078, #1.
