@@ -11,7 +11,10 @@ You can find all my publications on <u><a href="https://ui.adsabs.harvard.edu/se
 First and second Author Publications
 =========================
 
-(Updated on January, 2025)
+(Updated on October, 2025)
+
+* [*A comprehensive Gaia view of ellipsoidal and rotational red giant binaries*](https://ui.adsabs.harvard.edu/abs/2025A%26A...696A..82N/abstract)
+<br>Navarrete, C., Recio-Blanco, A., de Laverny, P. et al. 2025, A&A, 696, 82
 
 * [*The 3D kinematics of stellar substructures in the periphery of the Large Magellanic Cloud*](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4720N/abstract)
 <br>Navarrete, C., Aguado, D. S., Belokurov, V. et al. 2023, MNRAS, 523, 4720
