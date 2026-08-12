@@ -16,6 +16,9 @@ First and second Author Publications
 * [*Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream*](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202558557)
 <br>Navarrete, C., Rojas-Arriagada, A., Piatti, A. E. et al. 2026, A&A, in press
 
+* [*A clustering-based search for substructures in the Galactic plane and bulge using RR Lyrae stars as tracers*](https://ui.adsabs.harvard.edu/abs/2026A%26A...706A.298C/abstract)
+<br>Cristi-Cambiaso, N., Navarrete, C., Catelan, M. et al. 2026, A&A, 706, 298
+
 * [*A comprehensive Gaia view of ellipsoidal and rotational red giant binaries*](https://ui.adsabs.harvard.edu/abs/2025A%26A...696A..82N/abstract)
 <br>Navarrete, C., Recio-Blanco, A., de Laverny, P. et al. 2025, A&A, 696, 82
 
