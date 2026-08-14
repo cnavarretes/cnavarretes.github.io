@@ -27,11 +27,11 @@ author:
   avatar           : "CamilaNavarrete.jpg"
   name             : "Camila Navarrete"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow - Observatoire de la Côte d'Azur"
-  location         : "Nice, France"
-  employer         : "CNES"
+  bio              : "Adjunct Researcher / Investigadora Adjunta - Dpto. de Física"
+  location         : "Santiago, Chile"
+  employer         : "Universidad Técnica Federico Santa María"
   uri              : # URL
-  email            : "camila.navarrete@oca.eu" 
+  email            : "camila.navarrete@usm.cl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
