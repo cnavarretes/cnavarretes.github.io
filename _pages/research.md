@@ -10,7 +10,7 @@ author_profile: true
 # The stellar periphery of the Magellanic Clouds
 
 <img src='/images/LMC_debris.png'>
-TOBECOMPLETED
+Phase-space distribution for LMC debris, based on the N-body simulations of Jethwa et al. (2016). The BHB stars from Navarrete et al. (2019) are shown as colored symbols. They follow the LMC's halo velocity trend (dashed line): i.e. all S1 stars and S2, S3, and S4 stars with VGSR < 0 km s-1.
 
 
 ## The Magellanic Stream / Magellanic Wake
