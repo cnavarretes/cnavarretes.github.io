@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-# The stellar pheriphery of the Magellanic Clouds
+# The stellar periphery of the Magellanic Clouds
+
+<img src='/images/LMC_debris.png'>
+TOBECOMPLETED
+
 
 ## The Magellanic Stream / Magellanic Wake
 
